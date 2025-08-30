@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "lodash": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^3.10.0"
+  }
+}
